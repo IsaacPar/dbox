@@ -1,6 +1,15 @@
 # DrawBoxing
 
-A very small package made to draw boxes with text.
+A very small JS package made to draw boxes with text.
+
+## Installing
+
+In your project folder do:
+
+```
+git clone https://github.com/IsaacPar/dbox
+npm install <path/to/folder> # the folder where this repository's index.js file is
+```
 
 ## Usage
 
